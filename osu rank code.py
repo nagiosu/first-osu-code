@@ -1,4 +1,4 @@
-# Silly osu rank code
+# My first osu rank code
 
 def input_rank():
    while True:
